@@ -64,12 +64,7 @@ export default {
 };
 </script>
 <template>
-  <!-- <div>
-    <div>{{ data }}</div>
-    <ul>
-      <li v-for="coin in topCoins">{{ coin.name }}</li>
-    </ul>
-  </div> -->
+  
 
   <div class="g-sidenav-show bg-gray-100">
     <aside
